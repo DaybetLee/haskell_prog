@@ -1,5 +1,8 @@
 # My School Assignment 4
 
+![image](https://user-images.githubusercontent.com/55645717/159126319-fa88bd1c-808e-4c15-8557-f4e4e781f277.png)
+
+
 My first haskell program. Following is the background of the program:
 
 Write a program in Haskell for local famous chefs to rate the Muchelin restaurants service level. The chef judge may add new potential Muchelin award restaurants into the database, grade the
