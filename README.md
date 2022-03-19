@@ -1,7 +1,6 @@
 # My School Assignment 4
 
-![image](https://user-images.githubusercontent.com/55645717/159126374-ac3fc0aa-47fd-4c25-9c37-b490b76ceb3b.png)
-
+![image](https://user-images.githubusercontent.com/55645717/159126385-1964bcbe-4272-4858-8b42-bd1deb3e9128.png)
 
 My first haskell program. Following is the background of the program:
 
